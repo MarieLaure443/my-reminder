@@ -9,7 +9,7 @@ export default function HomepageFeatures() {
     <div className={styles.features}>
       <p className={styles.fontSize}>{siteConfig.tagline}</p>
       <p className={styles.featureSvg}>
-        <img src="/img/robot.gif" />
+        <img src="img/robot.gif" />
       </p>
 
       <Link className={styles.access_button} to="/docs/intro">
