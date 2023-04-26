@@ -12,6 +12,10 @@ Symfony est un framework PHP open-source utilisé pour développer des applicati
 
 Le rapport entre PHP et Symfony est étroitement lié, car Symfony est construit sur le langage de programmation PHP. En effet, Symfony utilise PHP comme langage de base pour générer des pages web dynamiques et pour interagir avec les bases de données. En utilisant Symfony, les développeurs peuvent bénéficier des avantages de PHP, tels que la simplicité de la syntaxe, la grande communauté de développeurs et la disponibilité de nombreux outils et bibliothèques open-source. En somme, Symfony est un outil puissant et polyvalent qui permet aux développeurs PHP de créer des applications web robustes, performantes et évolutives.
 
+- https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql
+- https://symfony.com/
+- https://symfonycasts.com/blog
+
 ## Mémo
 
 Voici un mémo pour se souvenir
