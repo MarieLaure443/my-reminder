@@ -14,7 +14,7 @@ Des ressources en ligne qui fournit des tutoriels et des informations sur les se
 
 ## Mémo
 
-Un petit lien vers un mémo pour aider à se souvenir pour Java :
+Mémo pour aider à se souvenir pour Java :
 
 - https://introcs.cs.princeton.edu/java/11cheatsheet/
 - http://le-memento.fr/pdf/memento_java_3c.pdf

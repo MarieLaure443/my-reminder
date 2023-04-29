@@ -50,7 +50,7 @@ Petit jeu pour apprendre git
 
 # Mémo
 
-Petit mémo
+Mémo pour git
 
 - https://git.goffinet.org/03-les-branches-avec-git.html#cr%C3%A9er-une-nouvelle-branche
 - https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
