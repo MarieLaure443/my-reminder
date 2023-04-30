@@ -6,15 +6,24 @@ sidebar_position: 1
 
 Ce site offre une variété de ressources, d'outils et de conseils pour vous aider à apprendre les bases de la programmation, à découvrir de nouvelles technologies.
 
-Ci-dessous, vous trouverez une sélection de liens pertinents qui pourront vous aider dans vos prochaines recherches sur divers sujets tels que les IDE, la vieille technique, les sites itules et les aspects plus amusants de l'informatique.
+Ci-dessous, vous trouverez une sélection de liens pertinents qui pourront vous aider dans vos prochaines recherches sur divers sujets tels que les IDE, la vieille technique, les sites utiles et les aspects plus amusants de l'informatique.
 
 ## Générique
 
-Une base pour commencer et Comprendre le web : https://openclassrooms.com/fr/courses/1946386-comprendre-le-web
+:::tip
+
+Une base pour commencer et Comprendre le web :
+
+- https://openclassrooms.com/fr/courses/1946386-comprendre-le-web
+- https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
+- https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript
+  (#).
+
+:::
 
 ## Integrated Development Environment (IDE)
 
-Un IDE est l'interface de votre ordinateur que vous verrez le plus sur votre ordinateur, il existe différents les plus connus sont **VsCode, JetBrains......**
+Un IDE est le logiciel taper ton code, il en existe des différents, les plus connus sont **VsCode, JetBrains......**
 Un IDE (Integrated Development Environment) est un environnement de développement intégré qui permet aux développeurs de créer, éditer et déboguer du code dans un seul endroit. Il fournit des fonctionnalités telles que la coloration syntaxique, l'autocomplétion, la gestion de projet, la compilation et le débogage pour faciliter le processus de développement de logiciels. Les IDE sont utilisés dans différents langages de programmation tels que Python, Java, C++, etc. et sont largement utilisés par les développeurs.
 
 ### Vscode
@@ -41,7 +50,7 @@ Des modules complémentaires qui ajoutent des fonctionnalités supplémentaires 
 
 La technologie évolue rapidement, et les développeurs doivent se tenir au courant des dernières tendances et des nouvelles technologies pour rester compétitifs sur le marché. Pour cela, ils doivent effectuer une veille technologique régulière pour se tenir au courant des sorties des nouveaux langages de programmation et des nouveaux environnements de développement.
 
-La veille technologique permet aux développeurs de découvrir de nouveaux outils, de nouvelles bibliothèques et de nouvelles méthodes de programmation qui peuvent améliorer leur productivité et leur efficacité. Elle peut également aider les développeurs à rester à jour avec les dernières tendances et les meilleures pratiques de l'industrie.
+La veille technologique permet aux développeurs de découvrir de nouveaux outils, de nouvelles bibliothèques (code écrit par quelqu'un d'autre et qui est partagé à tous) et de nouvelles méthodes de programmation qui peuvent améliorer leur productivité et leur efficacité. Elle peut également aider les développeurs à rester à jour avec les dernières tendances et les meilleures pratiques de l'industrie.
 
 En résumé, la veille technologique est essentielle pour les développeurs qui veulent rester compétitifs et être à la pointe de la technologie. Elle leur permet de découvrir et d'adopter rapidement les dernières technologies et de maintenir leur avantage concurrentiel.
 Voici quelques site :
@@ -50,7 +59,7 @@ DevDocs API est un site web qui fournit une documentation technique pour un larg
 
 - https://devdocs.io/
 
-Un autre outil super utile est une extension à rajouter au navigateur web ce qui permet de voir directement les derniers articles sorties.
+Un autre outil super utile est une extension à rajouter au navigateur web ce qui permet de voir directement les derniers articles sortis.
 
 - https://daily.dev/
 
@@ -78,8 +87,8 @@ W3Schools est un site web d'apprentissage en ligne qui fournit des tutoriels et 
 
 ## Fun
 
-Les Joies du Code est un site web réservé aux développeurs, considéré comme une référence incontournable dans le domaine car il est inévitable que
-parfois vous reconnaîtrez dans certaines.
-"Les Joies du Code, où même les erreurs ont leur propre message d'erreur."
+Les joies du code est un site dédié aux développeurs, il est très connu dans le mode du web pour ces memes humoristiques.
+
+![ug](./../assets/pire-code-simpson-meme.webp)
 
 - https://lesjoiesducode.fr/

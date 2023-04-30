@@ -35,7 +35,7 @@ Les bases de données SQL sont utilisées dans de nombreux domaines, tels que le
 
 Les avantages des bases de données SQL sont nombreux : elles permettent de stocker une grande quantité d'informations de manière organisée, de les gérer de manière efficace et de les récupérer rapidement. De plus, les bases de données SQL offrent un haut niveau de sécurité, avec la possibilité de restreindre l'accès à certaines informations à des utilisateurs spécifiques. Enfin, les bases de données SQL sont largement utilisées dans l'industrie et sont compatibles avec de nombreux outils et technologies.
 
-\*\*SELECT \* FROM mytable WHERE firstname = 'Thomas';
+**SELECT \* FROM mytable WHERE firstname = 'Thomas';**
 
 - https://sqlzoo.net/wiki/SQL_Tutorial
 - https://laurent-audibert.developpez.com/Cours-BD/?page=langage-sql
@@ -66,7 +66,7 @@ MongoDB utilise un modèle de données de documents qui permet de stocker des do
 
 Les avantages de MongoDB sont nombreux : elle offre une grande performance et évolutivité, avec la possibilité de gérer des volumes de données importants. Elle est également facile à utiliser et à configurer, avec une courbe d'apprentissage rapide pour les développeurs. De plus, MongoDB peut être déployée sur site ou dans le cloud, ce qui la rend très flexible en termes d'architecture. En somme, MongoDB est une base de données NoSQL populaire qui permet aux développeurs de stocker et de gérer des données de manière flexible et évolutive.
 
-\*\*db.mycollection.find({"firstname": "Thomas"})
+**db.mycollection.find({"firstname": "Thomas"})**
 
 - https://www.mongodb.com/fr-fr/what-is-mongodb
 - https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474601-decouvrez-le-fonctionnement-de-mongodb
