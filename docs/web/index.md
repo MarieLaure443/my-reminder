@@ -30,7 +30,15 @@ Jeux pour s'entraîner à maîtriser ces techniques :
 - https://www.frontendmentor.io/?ref=code-garage.fr
 - https://mastery.games/
 
+## CSS
+
+Le CSS, ou Cascading Style Sheets (feuilles de style en cascade), est un langage utilisé pour décrire la présentation et le style d'un document HTML (HyperText Markup Language). Il permet de contrôler l'apparence des éléments d'une page web, tels que les couleurs, les polices, les marges, les espacements, les arrière-plans, etc.
+
+Le CSS fonctionne en associant des règles de style à des éléments HTML. Ces règles sont écrites dans des blocs de déclaration, qui contiennent des propriétés et leurs valeurs. Par exemple, pour définir la couleur de texte d'un paragraphe, vous pouvez utiliser la propriété "color" avec une valeur spécifique.
+
 ## CodePen
+
+![image les joies du code git blame among us](./../../assets/code_pen.png)
 
 CodePen est une plateforme en ligne pour les développeurs Web qui permet de créer, partager et tester des snippets de code HTML, CSS et JavaScript. Il s'agit essentiellement d'un éditeur de code en ligne qui permet aux utilisateurs de créer des projets de développement Web à partir de zéro ou de travailler sur des projets existants.
 
