@@ -89,6 +89,6 @@ W3Schools est un site web d'apprentissage en ligne qui fournit des tutoriels et 
 
 Les joies du code est un site dédié aux développeurs, il est très connu dans le mode du web pour ces memes humoristiques.
 
-![ug](./../assets/pire-code-simpson-meme.webp)
+![image les joies du code simpson](./../assets/pire-code-simpson-meme.webp)
 
 - https://lesjoiesducode.fr/

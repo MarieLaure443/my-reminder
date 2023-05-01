@@ -1,6 +1,10 @@
 # Algorithme
 
-Un algorithme est une séquence d'instructions bien définies qui permet de résoudre un problème. C'est un peu comme une recette de cuisine qui indique les étapes à suivre pour obtenir un résultat spécifique.
+Un algorithme est une séquence d'instructions bien définies qui permet de résoudre un problème.
+
+:::tip
+C'est un peu comme une recette de cuisine qui indique les étapes à suivre pour obtenir un résultat spécifique.
+:::
 
 Lorsque l'on développe, on utilise des algorithmes pour résoudre des problèmes informatiques. Voici les étapes générales pour créer un algorithme :
 
@@ -22,6 +26,8 @@ Il est essentiel de noter que la pratique est essentielle pour devenir un bon d�
 
 ## Algorithme et les languages de programmation
 
+![image codage](./../../assets/codage.jpg.webp)
+
 Les algorithmes et les langages de programmation sont deux éléments essentiels de la création de logiciels et de la résolution de problèmes informatiques. Les algorithmes sont des séquences d'instructions logiques qui permettent de résoudre des problèmes spécifiques, tandis que les langages de programmation sont des outils utilisés pour écrire ces instructions de manière compréhensible par l'ordinateur.
 
 Les algorithmes peuvent être considérés comme la logique sous-jacente d'un programme. Ils décrivent étape par étape la méthode à suivre pour atteindre un résultat souhaité. Un algorithme peut être décrit en langage naturel, mais il doit ensuite être traduit dans un langage de programmation spécifique pour être exécuté par un ordinateur.
@@ -37,6 +43,8 @@ Il est important de noter que bien que les langages de programmation diffèrent 
 En conclusion, les algorithmes et les langages de programmation sont étroitement liés. Les algorithmes fournissent la logique et les étapes pour résoudre un problème, tandis que les langages de programmation permettent de traduire ces algorithmes en instructions exécutables par l'ordinateur. La maîtrise des algorithmes et la connaissance des langages de programmation sont essentielles pour développer des logiciels efficaces et résoudre des problèmes informatiques.
 
 ## Mémo
+
+Mémo pour aider à se souvenir :
 
 - https://blockly.games/?lang=fr
 - https://checkio.org/

@@ -1,4 +1,6 @@
-# HTML/Java Script
+# HTML / JavaScript
+
+![logo  css html js](./../../assets/html.png)
 
 Voici un pêle-mêle de site qui seront très utiles pour la partie développement web
 
@@ -22,8 +24,8 @@ En utilisant Flexbox et Grid, les développeurs peuvent créer des mises en page
 
 Jeux pour s'entraîner à maîtriser ces techniques :
 
-- Flex : https://flexboxfroggy.com/#fr
-- Grid : https://flukeout.github.io/ - https://cssgridgarden.com/
+- Flex -> https://flexboxfroggy.com/#fr
+- Grid -> https://flukeout.github.io/ - https://cssgridgarden.com/
 - https://www.codingame.com/start
 - https://www.frontendmentor.io/?ref=code-garage.fr
 - https://mastery.games/
@@ -83,6 +85,8 @@ Exemple de client lourd :
 - Jeux vidéo : les jeux vidéo modernes, en particulier ceux avec des graphismes avancés et une jouabilité complexe, sont souvent considérés comme des clients lourds car ils nécessitent une installation et s'exécutent localement sur l'ordinateur de l'utilisateur.
 
 # Mémo
+
+Mémo pour aider à se souvenir :
 
 - https://isnbreizh.fr/snt/activity/htmlcss/memoHtmlCss.pdf
 - https://jenseign.com/html/wp-content/uploads/2018/01/memo-html-apprendre.pdf

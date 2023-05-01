@@ -7,6 +7,8 @@ Les données stockées dans une base de données sont généralement structurée
 
 Les avantages des bases de données sont nombreux : elles permettent de stocker une grande quantité d'informations de manière organisée, de les gérer de manière efficace et de les récupérer rapidement. De plus, les bases de données offrent un haut niveau de sécurité, avec la possibilité de restreindre l'accès à certaines informations à des utilisateurs spécifiques.
 
+![image les joies du code modele appli requtes sql patrick bob eponge](./../../assets/modele-donnees-appli-requetes-sql-patrick-bob-eponge.webp)
+
 ## Base de données relationnel
 
 Une base de données relationnelle est un type de système de gestion de base de données (SGBD) qui organise les données en tables constituées de lignes et de colonnes. Ces tables sont reliées entre elles par des relations définies par des clés primaires et des clés étrangères.
@@ -25,7 +27,11 @@ La normalisation : un processus qui permet de concevoir une base de données rel
 
 Les bases de données relationnelles offrent plusieurs avantages, tels que la flexibilité de requête avec le langage SQL (Structured Query Language), la cohérence des données, la capacité à gérer des relations complexes entre les données et la sécurité des données grâce à la gestion des accès et des autorisations.
 
+:::info
+
 Cependant, les bases de données relationnelles peuvent présenter certaines limites en termes de performances lorsqu'il s'agit de gérer de grandes quantités de données ou de requêtes complexes. C'est pourquoi, dans certains cas, les bases de données NoSQL ont été développées pour répondre à des besoins spécifiques de performances, de scalabilité et de flexibilité.
+
+:::
 
 ### SQL
 
@@ -33,7 +39,11 @@ Une base de données SQL (Structured Query Language) est une base de données qu
 
 Les bases de données SQL sont utilisées dans de nombreux domaines, tels que les entreprises, les organisations gouvernementales, les établissements d'enseignement et les applications informatiques. Elles permettent de stocker une grande quantité de données de manière organisée et structurée, et de les gérer efficacement à l'aide de requêtes SQL.
 
+:::info
+
 Les avantages des bases de données SQL sont nombreux : elles permettent de stocker une grande quantité d'informations de manière organisée, de les gérer de manière efficace et de les récupérer rapidement. De plus, les bases de données SQL offrent un haut niveau de sécurité, avec la possibilité de restreindre l'accès à certaines informations à des utilisateurs spécifiques. Enfin, les bases de données SQL sont largement utilisées dans l'industrie et sont compatibles avec de nombreux outils et technologies.
+
+:::
 
 **SELECT \* FROM mytable WHERE firstname = 'Thomas';**
 
@@ -56,7 +66,11 @@ Bases de données de colonnes : elles stockent les données de manière orienté
 
 Bases de données graphiques : elles sont utilisées pour stocker et gérer des données interconnectées sous forme de graphes. Les bases de données graphiques sont efficaces pour résoudre des problèmes impliquant des relations complexes et des requêtes de type graphique.
 
+:::info
+
 Les bases de données NoSQL offrent une évolutivité horizontale, ce qui signifie qu'elles peuvent être facilement distribuées sur plusieurs serveurs, permettant ainsi de gérer de grands volumes de données et de gérer des charges de travail intensives. Cependant, elles peuvent présenter des compromis en termes de cohérence des données et de fonctionnalités transactionnelles, par rapport aux bases de données relationnelles traditionnelles.
+
+:::
 
 ### Mongo DB
 
@@ -73,7 +87,7 @@ Les avantages de MongoDB sont nombreux : elle offre une grande performance et é
 
 ## Mémo
 
-Mémo pour le SQL
+Mémo pour aider à se souvenir :
 
 - https://sql.sh/ressources/document/mysql-aide-memoire-sql.pdf
 - https://www.sqltutorial.org/sql-cheat-sheet/
